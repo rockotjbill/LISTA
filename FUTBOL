@@ -1,0 +1,606 @@
+# LISTA
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: LA 1 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/713.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: TELEDEPORTE FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/737.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: M+ Deportes FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/785.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: MOVISTAR VAMOS HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/801.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: MULTIDEPORTE
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/804.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: BARCA TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/842.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA", ES: REAL MADRID TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/843.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: DAZN FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/845.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: EUROSPORT 1 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/847.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: EUROSPORT 2 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/848.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: beIN Sports 1 | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: beIN Sports 1 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53184.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="bein Sports USA | HD" tvg-logo="" group-title="FUBO LINE",bein Sports USA | alta definición
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53185.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: Bein Sports 2 | (ES)" tvg-logo="" group-title="FUBO LINE",US: Bein Deportes 2 | (ES)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53186.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: BeIN Sports 4 | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: BeIN Sports 4 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53188.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: BeIN Sports 6 | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: BeIN Sports 6 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53190.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: BeIN Sports 7 | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: BeIN Sports 7 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53191.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: BeIN Sports 8 | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: BeIN Sports 8 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53192.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: BeIN Sports 12| HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: BeIN Sports 12| HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53196.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="EE.UU.: ESPN" tvg-logo="http://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png" group-title="EE.UU. | ESPN", EE. UU.: ESPN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35057.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="EE.UU.: ESPN 2" tvg-logo="https://archive.org/download/ESPN2/ESPN2.png" group-title=" EE. UU. | ESPN", EE. UU.: ESPN 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35058.ts
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://www.newswhip.com/wp-content/uploads/2018/02/Espndeportes -1080x625.png" group-title="EE.UU. | ESPN",EE.UU.: ESPN DEPORTES
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35059.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="EE.UU.: ESPN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQS8gGGJ_2-sHdyT_Ump1aL -2J1Hbyn_kl19YFbaBsf0ewsgXo" group-title="EE.UU. | ESPN",EE.UU.: ESPN NOTICIAS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35060.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="EE.UU.: ESPN U" tvg-logo="https://mpng.pngfly.com/20180403/jqw/kisspng-estados-unidos-espnu -logo-espn2-u-5ac30d86860120.5135061715227324225489.jpg" group-title="USA | ESPN",USA: ESPN U
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35061.ts
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US: ESPN DEPORTES FHD" tvg-logo="" group-title="USA | ESPN",US: ESPN DEPORTES FHD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35079.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN News HD" tvg-logo="" group-title="USA | ESPN",US: ESPN News HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35082.ts
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US: SEC Network HD" tvg-logo="" group-title="EE.UU. | ESPN",US: SEC Network HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/48336.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN 3" tvg-logo="" group-title="USA | ESPN",US: ESPN 3
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/50683.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="EE.UU.: ACC NETWORK" tvg-logo="https://awfulanounce.com/wp-content/uploads/sites/94/2013/05 /accnetworklogo.png" group-title="EE.UU. | ESPN",EE.UU.: RED ACC
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35156.ts
+#EXTINF:-1 tvg-id="CA: TSN1" tvg-name="TSN 1" tvg-logo="" group-title="US/CA/UK DEPORTES",TSN 1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19933.ts
+#EXTINF:-1 tvg-id="CA: TSN2" tvg-name="TSN 2" tvg-logo="" group-title="US/CA/UK DEPORTES",TSN 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19934.ts
+#EXTINF:-1 tvg-id="CA: TSN3" tvg-name="TSN 3" tvg-logo="" group-title="US/CA/UK DEPORTES",TSN 3
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19935.ts
+#EXTINF:-1 tvg-id="CA: TSN4" tvg-name="TSN 4" tvg-logo="" group-title="US/CA/UK DEPORTES",TSN 4
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19936.ts
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="" group-title="US/CA/UK SPORTS",SPECTRUM SPORTSNET LA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/36517.ts
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="SPECTRUM SPORTSNET" tvg-logo="" group-title="US/CA/UK SPORTS",SPECTRUM SPORTSNET
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="EE.UU.: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ 2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Fox Sports",EE.UU.: FOX SPORTS 1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34842.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="EE.UU.: FOX SPORTS 2" tvg-logo="https://www.seekpng.com/png/detail/52-523157_fox-sports- 2-logo-png-logo-fox-sports.png" group-title="Fox Sports",EE. UU.: FOX SPORTS 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34843.ts
+#EXTINF:-1 tvg-id="FoxSportsDetroit.us" tvg-name="EE.UU.: FOX SPORTS DETROIT" tvg-logo="http://apk.eternaltv.net/icons/foxsportsdetroit.jpg" group-title= "Fox Sports", EE.UU.: FOX SPORTS DETROIT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34846.ts
+#EXTINF:-1 tvg-id="FoxSportsMidwest.us" tvg-name="EE.UU.: FOX SPORTS MEDIO OESTE" tvg-logo="http://apk.eternaltv.net/icons/foxsportsmidwest.png" group-title= "Fox Sports", EE. UU.: FOX SPORTS MIDWEST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34847.ts
+#EXTINF:-1 tvg-id="FoxSportsNorth.us" tvg-name="EE.UU.: FOX SPORTS NORTE" tvg-logo="http://apk.eternaltv.net/icons/foxsportsnorth.jpg" group-title= "Fox Sports", EE. UU.: FOX SPORTS NORTE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34848.ts
+#EXTINF:-1 tvg-id="foxsportsohiocincinnati.us" tvg-name="EE.UU.: FOX SPORTS OHIO" tvg-logo="http://apk.eternaltv.net/icons/foxsportsohio.jpg" group-title= "Fox Sports", EE. UU.: FOX SPORTS OHIO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34850.ts
+#EXTINF:-1 tvg-id="FoxSportsSanDiego.us" tvg-name="EE.UU.: FOX SPORTS SAN DIEGO" tvg-logo="http://apk.eternaltv.net/icons/foxsports-sandiego.png" grupo -title="Fox Sports",EE.UU.: FOX SPORTS SAN DIEGO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34854.ts
+#EXTINF:-1 tvg-id="foxsportssouth.us" tvg-name="EE.UU.: FOX SPORTS SOUTH" tvg-logo="http://apk.eternaltv.net/icons/foxsports-south.jpg" grupo- title="Fox Sports",EE.UU.: FOX SPORTS SUR
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34855.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="FOX SPORTS SPORTSTIME OHIO" tvg-logo="http://apk.eternaltv.net/icons/sportstime-ohio.jpg" group-title="Fox Sports",FOX SPORTS SPORTSTIME OHIO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34860.ts
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="EE.UU.: FOX SPORTS SUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012. png" group-title="Fox Sports",EE.UU.: FOX SPORTS SUN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34861.ts
+#EXTINF:-1 tvg-id="FoxSportsWest.us" tvg-name="EE.UU.: FOX SPORTS WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ Fox_Sports_West_2012_logo.png/200px-Fox_Sports_West_2012_logo.png" group-title="Fox Sports",EE.UU.: FOX SPORTS WEST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34863.ts
+#EXTINF:-1 tvg-id="FoxSportsDetroit.us" tvg-name="SP: FOX SPORTS DETROIT" tvg-logo="" group-title="Fox Sports",SP: FOX SPORTS DETROIT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34869.ts
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="SP: FOX SPORTS FLORIDA" tvg-logo="" group-title="Fox Sports",SP: FOX SPORTS FLORIDA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34870.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN 2 | HD" tvg-logo="" group-title="FUBO LINE",US: ESPN 2 | alta definición
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52628.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN DEPORTES | HD*" tvg-logo="" group-title="FUBO LINE",US: ESPN DEPORTES | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52637.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN NEWS | HD" tvg-logo="" group-title="FUBO LINE",US: ESPN NEWS | alta definición
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52639.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN U | HD" tvg-logo="" group-title="FUBO LINE",US: ESPN U | alta definición
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52641.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: ESPN | HD*" tvg-logo="" group-title="FUBO LINE",US: ESPN | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52642.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: FNTSY SPORTS NETWORK | HD*" tvg-logo="" group-title="FUBO LINE",US: FNTSY SPORTS RED | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52643.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: Fubo Sports Network | HD*" tvg-logo="" group-title="FUBO LINE", EE. UU.: Fubo Sports Red | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52670.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="EE. UU.: GINX eSports | HD" tvg-logo="" group-title="FUBO LINE", EE. UU.: GINX eSports | alta definición
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52671.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="US: GolTV (En) | HD*" tvg-logo="" group-title="FUBO LINE",US: GolTV (Es) | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52672.ts
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="GOL TV (ES) | HD*" tvg-logo="" group-title="FUBO LINE",GOL TV (ES) ) | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52673.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtjZ4-oGW3vEvMS_OLCqN0OuACmwx9TTfUZcMeDN63Y4YA.png" group-title="BR | BRAZIL",  BR: PREMIERE 2 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115815.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeDBFJE0hoqlxH-ekDQmjmyBTuwoRP5X3h-9Xbcsjp_JMTfjQJ5rgSWyz_mF7AS-oQ.png" group-title="BR | BRAZIL",  BR: TELECINE PREMIUN HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115816.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BR | BRAZIL",  BRASIL| SPORTV 1 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115842.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0kFiM6Ux32uA2cd2iy0ph4FsmZEtS_HQTqgZewS_dLsw.png" group-title="BR | BRAZIL",  BRASIL| SPORTV 2 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115843.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsykwDFcKUMEdt0aKCtPjYjN2C3ZDLdS4oizTCRyhLX62Q.png" group-title="BR | BRAZIL",  BRASIL| SPORTV 3 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115844.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0ZvzUAsIq81A-kjHgUvHrLri6YHv5PjV9q30iwFmSiiQ.png" group-title="BR | BRAZIL",  BR: PREMIERE 1 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115845.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9ediuSeM_LS-7jnbJTbev1hA-xBjvkXd6ftnMfkoqsYSQFzy0J3iUBuWn4pGuwScup6HesAr6Z6fNHTJ3-iybCDZWFvpOZZSOHXkz82s57eI.png" group-title="BR | BRAZIL",  BR: ESTADIO TNT SPORTS 1 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115846.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOXW_Ml7ZHeAgjOFX-jrgPEui8WaiLVIkuuju-f1o1j-PlVP2Lka5BtPwPeyCpb9FkV1bL68KGxJdkDK_XkCJRos.png" group-title="BR | BRAZIL",  BR: FOX SPORTS 2 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115847.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsy-i9welbgJK1Y125p_5zV7FMYNl2b7NVGTl2RUTVQ1Rw.png" group-title="BR | BRAZIL",  BR: ESPN BRAZIL HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115848.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/O5oJOm1lPCS2FLZRJ7g3q55HLyOBgU0J70CdjgWwLoViycG2rkDiMrSIiGoic49m2VZcDgXWBWCFpLqhyKS9rvc4rqChpBkjAKADsCCA6eQ.png" group-title="BR | BRAZIL",  BR: ESPN HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115849.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOUV68wObjg7-UCLtVGCH4DfjOI3r3QWV9bGnF-FtpTHNT9CldQQTnLJs8Y35p2kmpeDvAPM4ZaKdNUkK_4cVdlE.png" group-title="BR | BRAZIL",  BR: ESPN 2 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115850.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/1kh4E9iLf1dybePBzhx4COTkKGMDRuzm8wx2d-uyx7gQQvs_NGVfiblg0eXha7aWtQ7k5Sc8gEWheVf6ithdWovS21MYWuNU-m1wkU7XV1s.png" group-title="BR | BRAZIL",  BR: ESPN + HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115851.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9rc-0K_cpATAEcjBK3_jHGz276He0YflSEeTyXIDVJjZODDT1eBYWaoFEkiGbyFqBBdjc-Qc93AfZhrJVxNYuWg.png" group-title="BR | BRAZIL",  BR: BANDS SPORTS HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115852.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtj2aXL4vIJvNDUIpdleGpnMBE9u9A4AXHPXZrdcGHweIg.png" group-title="BR | BRAZIL", BR: PREMIERE 3 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115862.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd3Z6_4x6Ht0WFOo7Xh288NUODa2TQ4MmdbQRWjhTJe0ig.png" group-title="BR | BRAZIL",  BR: PREMIERE 4 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115863.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtjZ4-oGW3vEvMS_OLCqN0OuACmwx9TTfUZcMeDN63Y4YA.png" group-title="BR | BRAZIL",  BR: PREMIERE 5 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115864.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwti54F9l61cmm4xgV6Np1IEb-MrURvADyAvkEHTsFEZAPg.png" group-title="BR | BRAZIL",  BR: PREMIERE 6 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115865.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsxmfncCGhGmHDs4LiQpNWTvbmEUo7XOD_KCqW_eo4o2Pw.png" group-title="BR | BRAZIL",  BR: PREMIERE 8 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115866.ts
+#EXTINF:-1 tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAEdi4gScGIc2uVxdtJ_cwrYxVJa1X4iLHds2bKOMrUSzU6huOof9Yzcy7cfTu3HpOTJQ9_026zqVftxxkcPUDmW.png" group-title="BR | BRAZIL",  BR: FOX SPORTS 1 HD
+http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115867.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: M+ LaLiga FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/850.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: LALIGA 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/852.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: M+ Liga de Campeones FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/859.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: GOL FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/860.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES:  DAZN F1 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/861.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: LIGA DE CAMPEONES 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/872.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: LIGA TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/873.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: M. DEPORTES 1
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/874.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bandera_de_Espa%C3%B1a_%28nuevo_dise%C3%B1o%29.svg/1500px-Bandera_de_Espa%C3%B1a_%28nuevo_dise%C3%B1o%29.svg.png" group-title="EU - España TDT",  ▂ ▄ ▅ ▆  ESPAÑA  ▆ ▅ ▄ ▂
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32099.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png" group-title="EU - España TDT",  ES: La 1 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/103.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="EU - España TDT",  ES: La 2 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EU - España Deportes ⚽",  •●★-- España Deportes --★●
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/302518.ts
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Deportes/M_LaLiga_Tv.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga (Movil)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/310985.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/112.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/3061.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/116.ts
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Deportes/M_Liga_de_Campeones.png" group-title="EU - España Deportes ⚽", SP: ES: M. Liga de Campeones (Movil)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/310984.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/121.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/3062.ts
+#EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/2019/07/logo-movistar-laliga.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/131.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 1 SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107139.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 1 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107140.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 1 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107099.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 2 SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107141.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 2 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115669.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 2 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107100.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2524.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 3 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115678.ts
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Deportes/Danz_3.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 3 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115681.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="EU - España Deportes ⚽", SP: ES: Dazn 4 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115686.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="EU - España Deportes ⚽",  SP: ES: Dazn 4 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115688.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: #Vamos
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/90.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: #Vamos HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/3065.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: #Vamos FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/91.ts
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="EU - España Deportes ⚽",  SP: ES: Barça TV
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26.t
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/334/67/png-transparent-eurosport-1-high-definition-television-television-show-others-television-text-trademark.png" group-title="EU - España Deportes ⚽",  SP: ES: Eurosport 1
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/162.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: Eurosport 1 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/3063.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/334/67/png-transparent-eurosport-1-high-definition-television-television-show-others-television-text-trademark.png" group-title="EU - España Deportes ⚽",  SP: ES: Eurosport 1 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/163.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1010/156/png-transparent-eurosport-1-high-definition-television-eurosport-2-television-channel-eurosport-hd-television-text-logo.png" group-title="EU - España Deportes ⚽",  SP: ES: Eurosport 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/164.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: Eurosport 2 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27250.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Gol_Transportes_A%C3%A9reos/Gol_Transportes_A%C3%A9reos-Logo.wine.png" group-title="EU - España Deportes ⚽",  SP: ES: GOL HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/97.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/141.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/3064.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="EU - España Deportes ⚽", ( SP: ES: M. Deportes FHD
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/275/450/gratis-png-pelotas-deportivas-surtidas-entrenador-de-equipo-de-baloncesto-del-equipo-universitario-junior-pelota-deportiva.png" group-title="EU - España Deportes ⚽", SP: ES: Multideportes
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/116097.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/275/297/png-transparent-real-madrid-c-f-ciudad-real-madrid-real-madrid-tv-television-channel-benfica-television-blue-text.png" group-title="EU - España Deportes ⚽",  SP: ES: Real Madrid TV
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27275.ts
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Deportes/Real_Madrid_Tv.png" group-title="EU - España Deportes ⚽",  SP: ES: Real Madrid TV HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/63.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1024px-Teledeporte.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: Teledeporte SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/78.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1024px-Teledeporte.svg.png" group-title="EU - España Deportes ⚽",  SP: ES: Teledeporte FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27276.ts
+#EXTINF:-1 tvg-logo="http://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes 1 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/230780.ts
+#EXTINF:-1 tvg-logo="https://im2.ezgif.com/tmp/ezgif-2-9e01b66aad.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes 2 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/273592.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes 3 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/273593.ts
+#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/05/23010023/movistar-deportes.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Deportes 4 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/273594.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 2 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/114.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 2 FHD (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/60379.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 3 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/115.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_3.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 3 FHD (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/60380.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 4 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/126147.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 4 FHD (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/126148.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 5 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/126149.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 6 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127862.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qlw1d81621074447.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 7 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127863.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 8 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127864.ts
+#EXTINF:-1 tvg-logo="https://im2.ezgif.com/tmp/ezgif-2-e51fdd85a4.png" group-title="EU - España Deportes ⚽",  SP: ES: M. LaLiga 9
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127865.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 2 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/123.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1460.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/85956.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 3 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/124.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/85957.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 4 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 5 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/126.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 6 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="EU - España Deportes ⚽", SP: ES: M. Liga de Campeones 7 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/128.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EU - España Deportes ⚽",  SP: ES: M. Liga de Campeones 8 (Solo Eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/129.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPANIA",  ES: LA 2 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/715.ts
+#EXTINF:-1 ,AR | ser en deportes 3
+http://soberon.us:25461/m0nk/n3w/3495
+#EXTINF:-1 ,AR | beIN Deportes 6
+http://soberon.us:25461/m0nk/n3w/3498
+#EXTINF:-1 ,DEP ARG | ESPN
+http://soberon.us:25461/m0nk/n3w/3978
+#EXTINF:-1 ,DEP ARG | ESPN 1 HD
+http://soberon.us:25461/m0nk/n3w/3979
+#EXTINF:-1 ,DEP ARG | ESPN 2
+http://soberon.us:25461/m0nk/n3w/3980
+#EXTINF:-1 ,DEP ARG | ESPN 3
+http://soberon.us:25461/m0nk/n3w/3981
+#EXTINF:-1 ,DEP ARG | ESPN MÁS
+http://soberon.us:25461/m0nk/n3w/3982
+#EXTINF:-1 ,DEP ARG | ZORRO DEPORTIVO 2
+http://soberon.us:25461/m0nk/n3w/3984
+#EXTINF:-1 ,DEP ARG | ZORRO DEPORTIVO 3
+http://soberon.us:25461/m0nk/n3w/3985
+#EXTINF:-1 ,DEP ARG | ZORRO DEPORTIVO 1
+http://soberon.us:25461/m0nk/n3w/3986
+#EXTINF:-1 ,DEP ARG | FOX DEPORTES PREMIUM FHD
+http://soberon.us:25461/m0nk/n3w/3987
+#EXTINF:-1 ,DEP ARG | FOX DEPORTES PREMIUM HD
+http://soberon.us:25461/m0nk/n3w/3988
+#EXTINF:-1 ,DEP ARG | FOX DEPORTES PREMIUM SD
+http://soberon.us:25461/m0nk/n3w/3989
+#EXTINF:-1 ,ARGENTINA | ESPN 3
+http://soberon.us:25461/m0nk/n3w/3036
+#EXTINF:-1 ,ARGENTINA | ESPN 4
+http://soberon.us:25461/m0nk/n3w/3037
+#EXTINF:-1 ,ARGENTINA | zorro deportes 1
+http://soberon.us:25461/m0nk/n3w/3038
+#EXTINF:-1 ,ARGENTINA | zorro deportes 2
+http://soberon.us:25461/m0nk/n3w/3039
+#EXTINF:-1 ,ARGENTINA | zorro deportes 3
+http://soberon.us:25461/m0nk/n3w/3040
+#EXTINF:-1 ,ARGENTINA | FOX DEPORTES PREMIUM
+http://soberon.us:25461/m0nk/n3w/552
+#EXTINF:-1 ,SUJETADOR | DAZN 2 HD
+http://soberon.us:25461/m0nk/n3w/4148
+#EXTINF:-1 ,SUJETADOR | GLOBO RJ
+http://soberon.us:25461/m0nk/n3w/4151
+#EXTINF:-1 ,SUJETADOR | DEPORTIVO 1 HD
+http://soberon.us:25461/m0nk/n3w/4152
+#EXTINF:-1 ,SUJETADOR | DEPORTIVO 2 HD
+http://soberon.us:25461/m0nk/n3w/4153
+#EXTINF:-1 ,SUJETADOR | DEPORTIVO 3 HD
+http://soberon.us:25461/m0nk/n3w/4154
+#EXTINF:-1 ,DEP SUJETADOR | ESPN
+http://soberon.us:25461/m0nk/n3w/4098
+#EXTINF:-1 ,DEP SUJETADOR | ESPN 2
+http://soberon.us:25461/m0nk/n3w/4099
+#EXTINF:-1 ,DEP SUJETADOR | DEPORTES ZORRO
+http://soberon.us:25461/m0nk/n3w/4100
+#EXTINF:-1 ,DEP SUJETADOR | ZORRO DEPORTIVO 2
+http://soberon.us:25461/m0nk/n3w/4101
+#EXTINF:-1 ,BRA HD | Urgencias
+http://soberon.us:25461/m0nk/n3w/4102
+#EXTINF:-1 ,BRA HD | deportes de bandas
+http://soberon.us:25461/m0nk/n3w/4103
+#EXTINF:-1 ,CA| TVA DEPORTES HD
+http://soberon.us:25461/m0nk/n3w/3837
+#EXTINF:-1 ,PUEDE| RED DEPORTIVA 360 HD
+http://soberon.us:25461/m0nk/n3w/3838
+#EXTINF:-1 ,PUEDE| DEPORTES NET ONE HD
+http://soberon.us:25461/m0nk/n3w/3839
+#EXTINF:-1 ,PUEDE| TSN 1 HD
+http://soberon.us:25461/m0nk/n3w/3829
+#EXTINF:-1 ,PUEDE| TSN 2 HD
+http://soberon.us:25461/m0nk/n3w/3830
+#EXTINF:-1 ,PUEDE| TSN 3 HD
+http://soberon.us:25461/m0nk/n3w/3831
+#EXTINF:-1 ,PUEDE| TSN 4 HD
+http://soberon.us:25461/m0nk/n3w/3832
+#EXTINF:-1 ,PUEDE| TSN 5 HD
+http://soberon.us:25461/m0nk/n3w/3834
+#EXTINF:-1 ,CANADÁ | TSN 1
+http://soberon.us:25461/m0nk/n3w/13
+#EXTINF:-1 ,CANADÁ | TSN 2
+http://soberon.us:25461/m0nk/n3w/14
+#EXTINF:-1 ,CANADÁ | TSN 3
+http://soberon.us:25461/m0nk/n3w/15
+#EXTINF:-1 ,CANADÁ | TSN 4
+http://soberon.us:25461/m0nk/n3w/16
+#EXTINF:-1 ,CANADÁ | TSN 5
+http://soberon.us:25461/m0nk/n3w/17
+#EXTINF:-1 ,CHILE : TNT SPORTS
+http://soberon.us:25461/m0nk/n3w/3391
+#EXTINF:-1 ,CHILE | TVN
+http://soberon.us:25461/m0nk/n3w/550
+#EXTINF:-1 ,DEP COL | ESPN
+http://soberon.us:25461/m0nk/n3w/3990
+#EXTINF:-1 ,DEP COL | ESPN 2
+http://soberon.us:25461/m0nk/n3w/3991
+#EXTINF:-1 ,DEP COL | ESPN 3
+http://soberon.us:25461/m0nk/n3w/3992
+#EXTINF:-1 ,DEP COL | ZORRO DEPORTIVO 1
+http://soberon.us:25461/m0nk/n3w/3993
+#EXTINF:-1 ,DEP COL | ZORRO DEPORTIVO 2
+http://soberon.us:25461/m0nk/n3w/3994
+#EXTINF:-1 ,DEP COL | ZORRO DEPORTIVO 3
+http://soberon.us:25461/m0nk/n3w/3995
+#EXTINF:-1 ,COLOMBIA | caracol
+http://soberon.us:25461/m0nk/n3w/62
+#EXTINF:-1 ,COLOMBIA | CARACOL INTERNACIONAL
+http://soberon.us:25461/m0nk/n3w/523
+#EXTINF:-1 ,COLOMBIA | RCN
+http://soberon.us:25461/m0nk/n3w/140
+#EXTINF:-1 ,COSTA RICA | FUTV
+http://soberon.us:25461/m0nk/n3w/1041
+#EXTINF:-1 ,COSTA RICA | DEPORTES TIGO
+http://soberon.us:25461/m0nk/n3w/790
+#EXTINF:-1 ,DEP | Sujetador deportivo de banda
+http://soberon.us:25461/m0nk/n3w/3515
+#EXTINF:-1 ,DEP | Bein Sports XTRA Ñ
+http://soberon.us:25461/m0nk/n3w/3516
+#EXTINF:-1 ,DEP | Claro Deportes FHD
+http://soberon.us:25461/m0nk/n3w/3517
+#EXTINF:-1 ,DEP | Sujetador Premiere 1 HD
+http://soberon.us:25461/m0nk/n3w/3519
+#EXTINF:-1 ,DEP | Sujetador Premiere 3
+http://soberon.us:25461/m0nk/n3w/3520
+#EXTINF:-1 ,DEP | Sujetador Premiere 5 HD
+http://soberon.us:25461/m0nk/n3w/3522
+#EXTINF:-1 ,DEP | Sujetador Premiere 7
+http://soberon.us:25461/m0nk/n3w/3524
+#EXTINF:-1 ,DEPORTES | ESPN1 ARG
+http://soberon.us:25461/m0nk/n3w/3965
+#EXTINF:-1 ,DEPORTES | ESPN 2 ARG
+http://soberon.us:25461/m0nk/n3w/3966
+#EXTINF:-1 ,DEPORTES | ESPN 3 ARG
+http://soberon.us:25461/m0nk/n3w/3967
+#EXTINF:-1 ,DEPORTES | ESPN 1 MX
+http://soberon.us:25461/m0nk/n3w/3968
+#EXTINF:-1 ,DEPORTES | ESPN 3 MX
+http://soberon.us:25461/m0nk/n3w/3970
+#EXTINF:-1 ,DEPORTES | Espn Plus ARG
+http://soberon.us:25461/m0nk/n3w/3971
+#EXTINF:-1 ,DEPORTES | FOX DEPORTES 1 ARG
+http://soberon.us:25461/m0nk/n3w/3972
+#EXTINF:-1 ,DEPORTES | FOX DEPORTES 2 ARG
+http://soberon.us:25461/m0nk/n3w/3973
+#EXTINF:-1 ,DEPORTES | FOX DEPORTES 3 ARG
+http://soberon.us:25461/m0nk/n3w/3974
+#EXTINF:-1 ,DEPORTES | FOX DEPORTES 1 MX
+http://soberon.us:25461/m0nk/n3w/3975
+#EXTINF:-1 ,DEPORTES | FOX DEPORTES 2 MX
+http://soberon.us:25461/m0nk/n3w/3976
+#EXTINF:-1 ,DEPORTES | ZORRO DEPORTIVO 3 MX
+http://soberon.us:25461/m0nk/n3w/3977
+#EXTINF:-1 ,DEPORTES HD | ESPN4ARG
+http://soberon.us:25461/m0nk/n3w/3957
+#EXTINF:-1 ,DEPORTES HD | ESPN 1 MX
+http://soberon.us:25461/m0nk/n3w/3958
+#EXTINF:-1 ,DEPORTES HD | ESPN 2 MX
+http://soberon.us:25461/m0nk/n3w/3959
+#EXTINF:-1 ,DEPORTES HD | ESPN 3 MX
+http://soberon.us:25461/m0nk/n3w/3960
+#EXTINF:-1 ,DEPORTES HD | FOX DEPORTES 1 ARG
+http://soberon.us:25461/m0nk/n3w/3961
+#EXTINF:-1 ,DEPORTES HD | FOX DEPORTES 2 ARG
+http://soberon.us:25461/m0nk/n3w/3962
+#EXTINF:-1 ,DEPORTES HD | ZORRO DEPORTIVO 1 CHI
+http://soberon.us:25461/m0nk/n3w/3963
+#EXTINF:-1 ,DEPORTES HD | ZORRO DEPORTIVO 2 CHI
+http://soberon.us:25461/m0nk/n3w/3964
+#EXTINF:-1 ,DEPORTES HD | ZORRO DEPORTIVO PREMIUM
+http://soberon.us:25461/m0nk/n3w/3996
+#EXTINF:-1 ,ECUADOR : Directv ecuador
+http://soberon.us:25461/m0nk/n3w/3293
+#EXTINF:-1 ,ECUADOR : EL CANAL DEL FÚTBOL
+http://soberon.us:25461/m0nk/n3w/3390
+#EXTINF:-1 ,EL SALVADOR | DEPORTES TIGO 1
+http://soberon.us:25461/m0nk/n3w/3069
+#EXTINF:-1 ,ESP | SuperSport Variedad 2
+http://soberon.us:25461/m0nk/n3w/3527
+#EXTINF:-1 ,ESP | SuperSport Variedad 3
+http://soberon.us:25461/m0nk/n3w/3528
+#EXTINF:-1 ,ESP | Variedad SuperSport 4
+http://soberon.us:25461/m0nk/n3w/3529
+#EXTINF:-1 ,ES | Eurosport 2
+http://soberon.us:25461/m0nk/n3w/3481
+#EXTINF:-1 ,ESPAÑA | REAL MADRID TELEVISIÓN
+http://soberon.us:25461/m0nk/n3w/2974
+#EXTINF:-1 ,HD HN | DEPORTES TIGO
+http://soberon.us:25461/m0nk/n3w/4094
+#EXTINF:-1 ,HOND| TODO DEPORTES HD
+http://soberon.us:25461/m0nk/n3w/4095
+#EXTINF:-1 ,LA LIGA : BARCA TV
+http://soberon.us:25461/m0nk/n3w/3292
+#EXTINF:-1 ,LA LIGA : M. LA LIGA
+http://soberon.us:25461/m0nk/n3w/3321
+#EXTINF:-1 ,LATINO | Adrenalina Deporte Red
+http://soberon.us:25461/m0nk/n3w/2937
+#EXTINF:-1 ,Latino | Aficionados
+http://soberon.us:25461/m0nk/n3w/43
+#EXTINF:-1 ,Latino | AyM Deportes
+http://soberon.us:25461/m0nk/n3w/49
+#EXTINF:-1 ,Latino | azteca 1
+http://soberon.us:25461/m0nk/n3w/53
+#EXTINF:-1 ,LATINO | AZTECA 1 (2 HORAS)
+http://soberon.us:25461/m0nk/n3w/3759
+#EXTINF:-1 ,Latino | azteca 7
+http://soberon.us:25461/m0nk/n3w/54
+#EXTINF:-1 ,Latino | estar en deportes
+http://soberon.us:25461/m0nk/n3w/56
+#EXTINF:-1 ,Latino | Central de la comedia
+http://soberon.us:25461/m0nk/n3w/68
+#EXTINF:-1 ,LATINO | DIR3C TV 1
+http://soberon.us:25461/m0nk/n3w/3281
+#EXTINF:-1 ,LATINO | DIRECT TV PLUS
+http://soberon.us:25461/m0nk/n3w/1046
+#EXTINF:-1 ,LATINO | DIRECTV DEPORTES 2
+http://soberon.us:25461/m0nk/n3w/1048
+#EXTINF:-1 ,Latino | ESPN 3
+http://soberon.us:25461/m0nk/n3w/91
+#EXTINF:-1 ,Latino | ESPN Deportes
+http://soberon.us:25461/m0nk/n3w/92
+#EXTINF:-1 ,Latino | estrella tv
+http://soberon.us:25461/m0nk/n3w/94
+#EXTINF:-1 ,Latino | deportes zorro
+http://soberon.us:25461/m0nk/n3w/105
+#EXTINF:-1 ,Latino | zorro deportes 2
+http://soberon.us:25461/m0nk/n3w/106
+#EXTINF:-1 ,Latino | zorro deportes 3
+http://soberon.us:25461/m0nk/n3w/107
+#EXTINF:-1 ,Latino | TUDN
+http://soberon.us:25461/m0nk/n3w/160
+#EXTINF:-1 ,LATINO | TU-DN
+http://soberon.us:25461/m0nk/n3w/3226
+#EXTINF:-1 ,Latino | TVC
+http://soberon.us:25461/m0nk/n3w/161
+#EXTINF:-1 ,Latino | TVC Deportes
+http://soberon.us:25461/m0nk/n3w/162
+#EXTINF:-1 ,MÉXICO : TNT SPORTS
+http://soberon.us:25461/m0nk/n3w/3282
+#EXTINF:-1 ,PERÚ | Direc tv Deportes
+http://soberon.us:25461/m0nk/n3w/3219
+#EXTINF:-1 ,PERÚ | GOL PERÚ
+http://soberon.us:25461/m0nk/n3w/463
+#EXTINF:-1 ,PERÚ | LIGA 1 MX
+http://soberon.us:25461/m0nk/n3w/4208
+#EXTINF:-1 ,PERÚ | LIGA 1 MX 2
+http://soberon.us:25461/m0nk/n3w/4209
+#EXTINF:-1 ,PERÚ | MOVISTAR DEPORTES
+http://soberon.us:25461/m0nk/n3w/464
+#EXTINF:-1 ,TUDN EXTRA 10
+http://soberon.us:25461/m0nk/n3w/506
+#EXTINF:-1 ,TUDN EXTRA 2
+http://soberon.us:25461/m0nk/n3w/498
+#EXTINF:-1 ,TUDN EXTRA 3
+http://soberon.us:25461/m0nk/n3w/499
+#EXTINF:-1 ,TUDN EXTRA 4
+http://soberon.us:25461/m0nk/n3w/500
+#EXTINF:-1 ,TUDN EXTRA 5
+http://soberon.us:25461/m0nk/n3w/501
+#EXTINF:-1 ,TUDN EXTRA 8
+http://soberon.us:25461/m0nk/n3w/504
+#EXTINF:-1 ,TUDN EXTRA 9
+http://soberon.us:25461/m0nk/n3w/505
+#EXTINF:-1 ,Reino Unido | beIN Deportes Xtra
+http://soberon.us:25461/m0nk/n3w/3476
+#EXTINF:-1 ,Reino Unido| BT DEPORTES 3 HD
+http://soberon.us:25461/m0nk/n3w/3933
+#EXTINF:-1 ,Reino Unido| LFC TV HD
+http://soberon.us:25461/m0nk/n3w/3882
+#EXTINF:-1 ,Reino Unido| LIGA PREMIER 1 HD
+http://soberon.us:25461/m0nk/n3w/3890
+#EXTINF:-1 ,Reino Unido| PREMIER DEPORTES 2 HD
+http://soberon.us:25461/m0nk/n3w/3935
+#EXTINF:-1 ,Reino Unido| SKY DEPORTES ACCIÓN HD
+http://soberon.us:25461/m0nk/n3w/3938
+#EXTINF:-1 ,Reino Unido| SKY SPORTS ARENA HD
+http://soberon.us:25461/m0nk/n3w/3936
+#EXTINF:-1 ,Reino Unido| MEZCLA DE DEPORTES EN EL CIELO HD
+http://soberon.us:25461/m0nk/n3w/3887
+#EXTINF:-1 ,Reino Unido| SKY SPORTS PREMIER LEAGUE HD
+http://soberon.us:25461/m0nk/n3w/3879
+#EXTINF:-1 ,URUGUAY | VTV PLUS
+http://soberon.us:25461/m0nk/n3w/1313
+#EXTINF:-1 ,EE.UU. / Tu-dn
+http://soberon.us:25461/m0nk/n3w/3225
+#EXTINF:-1 ,EE.UU. | AT&T Sportsnet Pittsburgh
+http://soberon.us:25461/m0nk/n3w/3486
+#EXTINF:-1 ,EE.UU. | AT&T Sportsnet Montañas Rocosas
+http://soberon.us:25461/m0nk/n3w/3484
+#EXTINF:-1 ,EE.UU. | AT&T Sportsnet Sudoeste
+http://soberon.us:25461/m0nk/n3w/3483
+#EXTINF:-1 ,EE.UU. | ESPN
+http://soberon.us:25461/m0nk/n3w/255
+#EXTINF:-1 ,EE.UU. | ESPN 2
+http://soberon.us:25461/m0nk/n3w/256
+#EXTINF:-1 ,EE.UU. | ESPN Noticias
+http://soberon.us:25461/m0nk/n3w/257
+#EXTINF:-1 ,EE.UU. | ESPN U
+http://soberon.us:25461/m0nk/n3w/258
+#EXTINF:-1 ,EE.UU. | FS2
+http://soberon.us:25461/m0nk/n3w/109
+#EXTINF:-1 ,EE.UU. | TUDN
+http://soberon.us:25461/m0nk/n3w/4206
+#EXTINF:-1 ,EE.UU. | TUDN EXTRA 11
+http://soberon.us:25461/m0nk/n3w/1137
+#EXTINF:-1 ,VENEZUELA | TELEVEN
+http://soberon.us:25461/m0nk/n3w/3287

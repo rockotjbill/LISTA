@@ -151,7 +151,14 @@ http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115865.ts
 http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115866.ts
 #EXTINF:-1 tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAEdi4gScGIc2uVxdtJ_cwrYxVJa1X4iLHds2bKOMrUSzU6huOof9Yzcy7cfTu3HpOTJQ9_026zqVftxxkcPUDmW.png" group-title="BR | BRAZIL",  BR: FOX SPORTS 1 HD
 http://tv4k.me:80/altondavis737@gmail.com/41N2Oml4ik/115867.ts
-
+#EXTINF:-1  WIN+
+https://dtvott-akaws.akamaized.net/live_1251/DASH/stream_07/1679389902437_init.m4i
+#EXTINF:-1 TYC SPORTS
+https://1240-vos.dtvott.com/DASH/stream_06/1679389821888_init.m4i
+#EXTINF:-1 ESPN PREMIUM
+https://1125-vos.dtvott.com/DASH/stream_06/1679466697269_init.m4i
+#EXTINF:-1 LIGA 1 MAX PERÚ
+https://dtvott-abc.akamaized.net/dash_live_1272/dash/1272_LIGA_1_MAX-audio_72882_spa=72400.dash
 
 
 

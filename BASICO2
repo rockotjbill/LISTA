@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png", NOVA SPORTS BULGARIA
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png", NOVA SPORTS BULGARIA
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png", BEIN SPORTS XTRA
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
